@@ -1,0 +1,28 @@
+﻿  main.cpp
+c:\users\wojtas\source\repos\gra\gra\main.cpp(21): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\wojtas\source\repos\gra\gra\main.cpp(22): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\wojtas\source\repos\gra\gra\main.cpp(23): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\wojtas\source\repos\gra\gra\main.cpp(24): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\wojtas\source\repos\gra\gra\main.cpp(25): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\wojtas\source\repos\gra\gra\main.cpp(98): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Gra.vcxproj -> C:\Users\Wojtas\source\repos\Gra\Debug\Gra.exe
